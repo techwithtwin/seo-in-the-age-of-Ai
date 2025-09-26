@@ -2,46 +2,43 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![What Is SEO](/img/what-is-seo.jpg)
 
-## Getting Started
+SEO stands for **"Search Engine Optimization"**, But you might wonder, what and why are we optimizing?
 
-Get started by **creating a new site**.
+## Why Optimize for SEO
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+SEO optimization is done to make sure that the search engines like google understand what your website is all about and in turn you get higher rankings and potential leads and sales.
 
-### What you'll need
+### Who is this for
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+This one is for anyone who wants to learn what and how they can use SEO, for better rankings. Generally anyone curious enough to understand SEO.
 
-## Generate a new site
+## Our Goals.
 
-Generate a new Docusaurus site using the **classic template**.
+Our goal for this workshop is to familiarize everyone with and understanding of
 
-The classic template will automatically be added to your project after you run the command:
+- What SEO is
+- What it entails
+- Best practices
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+## Who am I?
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+My name is Bonface Maina and my personal brand is **TechWithTwin**, I'm a fullstack developer with over 5+ years of Experience in software development. Recently I got my hands dirty in WordPress and I'm now transitioning to fulltime WP development that is creating themes and plugins as well as maintaining them.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+![Freelancing Pic](/img/techwithtwin.jpeg)
 
-## Start your site
+Yeah that's me in 2023 Safaricom's DECODE event where I did a podcast with blaze radio.
 
-Run the development server:
+Catch up with me on social media! I'll be honest: I'm not great at responding at DMs. The best way to talk to me is just to tweet at me.
 
-```bash
-cd my-website
-npm run start
-```
+- [Twitter](https://x.com/techwithtwin)
+- [Tiktok](https://tiktok.com/@techwithtwin2)
+- [Instagram](https://instagram.com/@techwithtwin)
+- [Youtube](https://youtube.com/@techwithtwin)
+- [Linkedin](https://linkedin.com/in/techwithtwin)
+- [Github](https://github.com/techwithtwin)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Okay, enough talk let's get started.
