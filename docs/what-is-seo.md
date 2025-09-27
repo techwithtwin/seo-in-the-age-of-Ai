@@ -8,7 +8,7 @@ sidebar_position: 1
 
 In simple terms, SEO ensures your website is **"findable"** on search engines like Google, Bing, or Yahoo.
 
-## 🔍 How Search Engines work
+## How Search Engines work
 
 Search engines work by matching what people search for with the **most relevant and high-quality content** available on the web.
 
@@ -38,7 +38,7 @@ But if your website is missing those keywords or if your descriptions are vague 
 Search engines use automated programs called **bots** (or **crawlers**) to discover and match content based on the words and topics they find.
 :::
 
-## ⏱️ Do search engines crawl in Real Time?
+## Do search engines crawl in Real Time?
 
 You might wonder, if Google matches your website to millions of searches every second, how does it do it so fast?
 

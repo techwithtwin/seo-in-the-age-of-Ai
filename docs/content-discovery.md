@@ -11,7 +11,7 @@ In this section, we’ll look at how Google finds your website and how you can h
 
 ---
 
-## 🔍 Ways to Let Google Know About Your Website
+## Ways to Let Google Know About Your Website
 
 There are several ways Google can discover your content:
 
@@ -94,7 +94,7 @@ Make sure your RSS feed is:
 
 ---
 
-## 🧭 How Google Decides What to Index
+## How Google Decides What to Index
 
 Just because a page is discovered doesn’t mean it’s indexed.
 

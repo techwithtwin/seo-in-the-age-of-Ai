@@ -12,16 +12,16 @@ It helps you understand **what your audience wants**, and **how** they’re sear
 
 ---
 
-## 🔍 Why Keyword Research Matters
+## Why Keyword Research Matters
 
 Search engines use keywords to match content with search queries.  
-If your website includes the right keywords naturally in your content, titles, and metadata — you increase your chances of appearing in relevant searches.
+If your website includes the right keywords naturally in your content, titles, and metadata, you increase your chances of appearing in relevant searches.
 
 Without keyword research, you’re basically guessing what your audience wants.
 
 ---
 
-## 🧠 How to Do Keyword Research
+## How to Do Keyword Research
 
 ### 1. **Manual Research**
 
@@ -67,7 +67,7 @@ Here are some great tools that don’t cost anything:
 
 Try searching for:
 
-> “Best mugs in Kenya” — then see related keywords like _“custom mugs Kenya”, “wholesale mugs Nairobi”_, etc.
+> “Best mugs in Kenya” then see related keywords like _“custom mugs Kenya”, “wholesale mugs Nairobi”_, etc.
 
 ---
 
@@ -75,17 +75,17 @@ Try searching for:
 
 For deeper data and analytics, paid tools provide more accuracy and competitive insights:
 
-1. [**Ahrefs**](https://ahrefs.com/) — excellent for keyword difficulty and competitor research
-2. [**SEMrush**](https://semrush.com) — full SEO suite for keywords, backlinks, and site audits
-3. [**WordTracker**](https://wordtracker.com) — simple interface to discover niche keyword opportunities
-4. [**Moz Keyword Explorer**](https://moz.com/explorer) — great for keyword suggestions and SERP analysis
+1. [**Ahrefs**](https://ahrefs.com/) - excellent for keyword difficulty and competitor research
+2. [**SEMrush**](https://semrush.com) - full SEO suite for keywords, backlinks, and site audits
+3. [**WordTracker**](https://wordtracker.com) - simple interface to discover niche keyword opportunities
+4. [**Moz Keyword Explorer**](https://moz.com/explorer) - great for keyword suggestions and SERP analysis
 
 ---
 
-## 🌐 Is Keyword Research Just for Websites?
+## Is Keyword Research Just for Websites?
 
 Not at all!  
-Keyword research applies to **any platform** where people search — including:
+Keyword research applies to **any platform** where people search including:
 
 - **YouTube** (optimize video titles and tags)
 - **Pinterest** (keyword-rich pin descriptions)
@@ -97,7 +97,7 @@ Keyword research applies to **any platform** where people search — including:
 
 ---
 
-## 🧩 What to Look For in Keywords
+## What to Look For in Keywords
 
 When choosing your target keywords, balance these three factors:
 
@@ -115,7 +115,7 @@ Aim for **long-tail keywords** specific, lower-competition phrases that attract 
 
 ---
 
-## 🔗 Then What?
+## Then What?
 
 Once you’ve identified your target keywords, the next step is to **optimize your website content** around them.
 
@@ -127,6 +127,6 @@ That means:
 
 ---
 
-## 🚀 Coming Up Next
+## Coming Up Next
 
 Now that we know how to find the right keywords, let’s move to the next step - "What is Ranking?"

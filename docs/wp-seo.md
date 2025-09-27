@@ -42,7 +42,7 @@ Before you install plugins or start writing content, ensure your basic WordPress
 
 3. **Use HTTPS**
 
-   - Make sure your site runs on a **secure connection (SSL certificate)** — Google favors secure sites.
+   - Make sure your site runs on a **secure connection (SSL certificate)** Google favors secure sites.
 
 4. **Choose a Lightweight, Mobile-Responsive Theme**
    - Themes like **GeneratePress**, **Astra**, or **Kadence** are great for SEO.

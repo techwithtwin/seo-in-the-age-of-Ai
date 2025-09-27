@@ -68,7 +68,7 @@ This deals with the **behind-the-scenes setup** that ensures your website is eas
 
 Focusing on just one pillar won’t give lasting results.  
 A site with great content but poor performance (technical issues) or no backlinks won’t rank high.  
-Strong SEO success happens when **all three pillars work together** — content, authority, and performance.
+Strong SEO success happens when **all three pillars work together** content, authority, and performance.
 
 > **In short:**
 >

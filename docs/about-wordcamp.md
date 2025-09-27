@@ -19,7 +19,7 @@ At WordCamp, you’ll find:
 - 🔹 Networking with creators, entrepreneurs, and tech professionals
 - 🔹 A welcoming community ready to help you level up your WordPress skills
 
-Each session — like today’s on **“SEO in the Age of AI”** is designed to give you **real-world, practical insights** that you can apply immediately.
+Each session, like today’s on **“SEO in the Age of AI”** is designed to give you **real-world, practical insights** that you can apply immediately.
 
 ---
 
