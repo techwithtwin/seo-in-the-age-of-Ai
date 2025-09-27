@@ -28,7 +28,7 @@ Now imagine a potential customer searches for:
 
 If your website contains those **keywords** and **relevant descriptions**, Google can easily connect your site with that searcher.
 
-But if your website is missing those keywords—or if your descriptions are vague or unrelated—Google won’t know your site is about mugs, and you **won’t appear** in search results.
+But if your website is missing those keywords or if your descriptions are vague or unrelated Google won’t know your site is about mugs, and you **won’t appear** in search results.
 
 **In short:**
 
@@ -51,7 +51,7 @@ Search engines go through a process called **crawling** and **indexing**.
 **Indexing** is when that information is stored and organized so it can appear in search results.
 :::
 
-So when someone searches for “best mugs in Kenya,” Google isn’t crawling your site right then — it’s retrieving results from its **index**, a massive library of web pages it has already scanned.
+So when someone searches for “best mugs in Kenya,” Google isn’t crawling your site right then it’s retrieving results from its **index**, a massive library of web pages it has already scanned.
 
 That’s why it’s so important to:
 
